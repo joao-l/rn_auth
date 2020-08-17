@@ -1,0 +1,4 @@
+<resources>
+    <string name="facebook_app_id">rn_auth</string>
+    <string name="app_name">rn_auth</string>
+</resources>
